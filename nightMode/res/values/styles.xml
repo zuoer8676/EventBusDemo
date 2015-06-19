@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="normalTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <item name="mainbackground">@color/white</item>
+        <item name="settingbackground">@color/white</item>
+        
+    </style>
+
+    <style name="nightTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <item name="mainbackground">@color/night</item>
+        <item name="settingbackground">@color/night</item>
+    </style>
+
+</resources>
